@@ -1,7 +1,6 @@
-# Questionnaire
-The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming problem of the manual system. Apart from that in the current system, checking the answer sheets after taking a test, waste the examiner's time, so this application will check the correct answer and save the examiner's time and carry the examination effectively. The users which are using this system don’t need high computing knowledge and also the system will inform them while entering invalid data. The aim of this project is to computerized the existing manual system and help the examiners to save their valuable time and important data. Apart from this, data which are exist in this system, will exist for long period of time and will be easy accessible. This project helps the examiners to manage their services in a good way and provide a better service to their users.
+# Online-Exam-Portal
+This project was developed to overcome the time-consuming problem of the manual system. Apart from that in the current system, checking the answer sheets after taking a test, waste the examiner's time, so this application will check the correct answer and save the examiner's time and carry the examination effectively. The users which are using this system don’t need high computing knowledge and also the system will inform them while entering invalid data. The aim of this project is to computerized the existing manual system and help the examiners to save their valuable time and important data. Apart from this, data which are exist in this system, will exist for long period of time and will be easy accessible. This project helps the examiners to manage their services in a good way and provide a better service to their users.
 
-<h2 align="center">Questionnaire Demo</h2>
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,7 +34,7 @@ What is web development?
 Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages. 
 
 About Website 
-The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming problem of the manual system. Apart from that in the current system, checking the answer sheets after taking a test, waste the examiner's time, so this application will check the correct answer and save the examiner's time and carry the examination effectively. The users which are using this system don’t need high computing knowledge and also the system will inform them while entering invalid data. The aim of this project is to computerized the existing manual system and help the examiners to save their valuable time and important data. Apart from this, data which are exist in this system, will exist for long period of time and will be easy accessible. This project helps the examiners to manage their services in a good way and provide a better service to their users.
+This project was developed to overcome the time-consuming problem of the manual system. Apart from that in the current system, checking the answer sheets after taking a test, waste the examiner's time, so this application will check the correct answer and save the examiner's time and carry the examination effectively. The users which are using this system don’t need high computing knowledge and also the system will inform them while entering invalid data. The aim of this project is to computerized the existing manual system and help the examiners to save their valuable time and important data. Apart from this, data which are exist in this system, will exist for long period of time and will be easy accessible. This project helps the examiners to manage their services in a good way and provide a better service to their users.
 
 
 **[⬆ Back to Index](#index)**
@@ -69,7 +68,7 @@ Scope of this project is very broad in terms of other manually taking exams, few
 
 To design and implement this project we plan that the project support to different types of users apart from its administrative part. When project is run for the first time it allowed the user to select as who he/she wants to login in the system. Project support login as teacher and login as student. If a user who is student, try to login as teacher system will not allow him and vice versa. User who add as teacher in system will be able to punch test and questions to system and also will be able to observe the result of the student which attempt tests. User who login to system as student will be able to select a particular test and attempt questions depend on this test. After attempting the test and submitting that user will receive a message that you have attempt the test successfully and if the user tries to attempt the same test, system will not allow him/her. Also, a user which login to system as student will be able to observe the result of test, he/she attempt. 
 
-The Questionnaire created for taking online quizzes has following stages- 
+The project created for taking online quizzes has following stages- 
 
 ➢ Student Portal- <br>
 • Login / SignUp <br>
@@ -256,10 +255,6 @@ QUESTION GENERATION:<br>
             This includes the various categorized question generation. In this   the administrator can perform add, modify, delete, move next, move previous, clear all operation. This   may be the most important   in proposed system, because it is the one where the entire system gets the categorized question.<br><br>
 REPORT GENERATION:<br>
             This contains various report generation related to our system such as Administrator report, Participant report, rank etc. the report gives the overall view about our system.<br><br>
-NOTICE GENERATION:<br>
-            This contains a notice publishing module. From the admin can make new announcements or notices for the user/student.<br><br>
-MEET SCHEDULING:<br>
-            This contains a meet link publishing and instant meet start-up module. From here the admin or the teacher can take online live classes and share its joining link with the user/student.<br><br><br>
 <b>--> PARTICIPANT AUTHENTICATION:<br></b>
             This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password. Hence this authentication module includes two fields where participant is asked to enter their username and password. The details include:<br>
 •	Username<br>
